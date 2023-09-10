@@ -1,0 +1,11 @@
+{
+  "name": "chatgpt-integration",
+  "version": "1.0.0",
+  "description": "ChatGPT Integration Into DJANGO, REACT Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

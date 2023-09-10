@@ -1,0 +1,39 @@
+*.pyc
+.DS_Store
+**/settings/local.py
+/staticfiles/*
+/mediafiles/*
+__pycache__/
+/.vscode/
+
+# npm
+node_modules/
+npm-debug.log
+
+# Webpack
+/frontend/bundles/*
+/frontend/webpack_bundles/*
+/webpack-stats.json
+
+# Sass
+.sass-cache
+*.map
+
+# General
+/{{project_name}}-venv/
+/venv/
+/env/
+/output/
+/cache/
+boilerplate.zip
+
+# Spritesmith
+spritesmith-generated/
+spritesmith.scss
+
+# templated email
+tmp_email/
+
+.direnv
+.envrc
+.tool-versions
